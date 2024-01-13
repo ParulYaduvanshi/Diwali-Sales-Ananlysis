@@ -1,4 +1,4 @@
-# Diwali-Sales-Ananlysis
+# Diwali-Sales-Analysis
 A Diwali sales analysis project involves analyzing sales data from a retail or e-commerce business during the Diwali festival to identify trends, patterns, and areas for improvement. This type of analysis can help businesses make informed decisions about their marketing, product offerings, and pricing strategies to maximize sales during this important shopping season.
 
 Data Collection
